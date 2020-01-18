@@ -1,2 +1,2 @@
-# desafio_php_estruturado
-Desafio de PHP do curso de desenvolvimento web da Digital House
+# CRUD PHP
+Desafio de PHP estruturado desenvolvido para o curso de desenvolvimento Web FullStack da Digital House
