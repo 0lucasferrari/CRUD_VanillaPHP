@@ -1,8 +1,12 @@
 # CRUD PHP
-Desafio de PHP estruturado desenvolvido para o curso de desenvolvimento Web FullStack da Digital House
 
-O objetivo deste desafio foi o de criar um simples CRUD, usando para persistência dos dados um arquivo JSON.
+PHP Challenge from the Digital House Fullstack Bootcamp.
 
-O CRUD deste repositório conta com cadastro de usuários (com encriptação de senha), tela de login, e cadastro de produtos (com a possibilidade de adicionar fotos).
+This application is a simple vanilla PHP CRUD, it can store users and products, the database is a simple JSON file.
 
-Para executar, utilizar XAMPP ou o comando "php -S localhost:{porta}" para iniciar o servidor.
+With this app:
+1. You can create and login with different users
+2. You can create, delete, update and list products (you can also include photos)
+3. Passwords are encrypted.
+
+To run it, use XAMPP or the command "-php -S localhost:{port}" to start the server.
